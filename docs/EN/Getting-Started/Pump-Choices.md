@@ -1,6 +1,6 @@
 # Pump choices
 
-AndroidAPS currently works with the Dana* R, Dana* RS and Combo pumps. The Dana* R and Combo have been available on the market for a while so many people already have access to these, and Dana* RS as an upgrade to the Dana* R is becoming a more common choice.  If you need to choose a pump to upgrade to or buy then people often ask which to choose. Details of the various distributors is in [this spreadsheet](https://drive.google.com/open?id=1CRfmmjA-0h_9nkRViP3J9FyflT9eu-a8HeMrhrKzKz0), please share the details of yours if not already listed.
+AndroidAPS currently works with the Dana* R, Dana* RS as well as Accu-Chek Insight and Combo pumps. The Dana* R and Combo have been available on the market for a while so many people already have access to these, and Dana* RS as an upgrade to the Dana* R is becoming a more common choice.  If you need to choose a pump to upgrade to or buy then people often ask which to choose. Details of the various distributors is in [this spreadsheet](https://drive.google.com/open?id=1CRfmmjA-0h_9nkRViP3J9FyflT9eu-a8HeMrhrKzKz0), please share the details of yours if not already listed.
 
 The Combo is a solid pump, and loopable.
 
